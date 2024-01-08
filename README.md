@@ -59,6 +59,45 @@ Morpheus is designed to incentivize the first peer-to-peer network of personal A
   - On Morpheus, it knows what smart contracts are available
 - The AI community: needs censorship resistant compute and tools to monetize agents
 
+# Dria - FirstBatch
+
+Dria serves as a collective memory for AGI, where information is stored permanently in a format understandable to both humans and AI, ensuring universal accessibility.
+
+Knowledge Hub consists of multi-region and serverless public vector databases called knowledge; curated from pdf, mp3, csv or other file types. It is fully decentralized and every index is available as a smart contract, making each Knowledge public and permanent.
+
+## **Dria offers:**
+
+- An API for knowledge retrieval implementing search with natural language and query.
+- A docker image for running local APIs without permission.
+
+## **Paving the way for open AGI: Core Solutions**
+
+1) ***Cost of Knowledge at Its Lowest:***
+
+Dria modernizes AI interfacing by indexing and delivering the world's knowledge via LLMs.
+
+Dria's Public RAG Models Democratize knowledge access with cost-effective, shared RAG models.
+
+Today, Dria is able to handle Wikipedia's 23GB database and annual 56 billion traffic efficiently at just $258.391, creating a base for world knowledge.
+
+2) **Contributing is easy and incentivized for everyone:**
+
+Dria's zero technical mumbo jumbo approach allows everyone to contribute knowledge to LLMs.
+
+Drag & Drop Public RAG Model effortlessly transforms knowledge into a retrievable format with an intuitive drag-and-drop upload feature.
+
+Users worldwide can contribute valuable knowledge to shared RAG knowledge in an environment where knowledge uploaders can earn rewards for the value of their verifiable work.
+
+3) **Safe, Trust Minimized, and Open Collaboration:**
+
+Anyone can run RAG models locally through smart contracts, enabling permissionless access to world knowledge.
+
+Dria stores all of the world's knowledge into a public ledger called Arweave, a decentralized storage network designed to offer a platform for permanently storing data.
+
+As Arweave's main value proposition is allowing users to store data permanently, once something is uploaded to the Arweave network, it's intended to be stored forever without the risk of data loss or degradation.
+
+Full persistence ensures accountability against manipulative AI technologies that proliferate during elections, wars, and existential crises. Communities can reevaluate AI knowledge, establishing transparent mechanisms for safeguarding against manipulation.
+
 ## Anna Zazlauskas - Vana
 
 Vana: Own your data
