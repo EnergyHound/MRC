@@ -22,8 +22,8 @@ Morpheus is designed to incentivize the first peer-to-peer network of personal A
 
 **Key points:**
 
-- 230 days left until July 26, 2024 - the date the commerce department is mandated to deterine if open source wieghts conssttiute munitions
-- EO signed on October 31st
+- 230 days left until July 26, 2024 - the date the commerce department is mandated to deterine if open source weights constitute munitions
+- [EO signed on October 31st](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) 
 - Limits number of parameters models can have
         - limit for permissionless models at 10B parametrs and only 20gigs
          - KYC for data centers
